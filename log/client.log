@@ -1,0 +1,14 @@
+[ 2023-04-13 23:17:35,735 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2023-04-13 23:17:36,654 ] Asset loading complete
+[ 2023-04-13 23:17:37,490 ] Could not parse hints file at offset 1 : "illegal value"
+[ 2023-04-13 23:17:56,739 ] BattlEye: "Initialized (v1.246)"
+[ 2023-04-13 23:17:56,739 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-04-13 23:17:56,739 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-04-13 23:17:56,821 ] Request connection to gameserver  "tcp://143.0.20.85:7172"  (unprotected:  "tcp://143.0.20.85:7172" )  requested (Charakter "Sacani" )
+[ 2023-04-13 23:17:56,829 ] Request connection to gameserver  "tcp://143.0.20.85:7172" "Antica"
+[ 2023-04-14 08:57:21,446 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2023-04-14 08:57:22,588 ] Asset loading complete
+[ 2023-04-14 08:57:23,504 ] Could not parse hints file at offset 1 : "illegal value"
+[ 2023-04-14 11:19:40,226 ] Attribute Qt::AA_UseOpenGLES must be set before QCoreApplication is created.
+[ 2023-04-14 11:19:41,175 ] Asset loading complete
+[ 2023-04-14 11:19:41,950 ] Could not parse hints file at offset 1 : "illegal value"

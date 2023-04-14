@@ -1,0 +1,16 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#235c00",
+            "colorlight": "#2d7400",
+            "description": "TibiaProject example 2 description 50% less exp, triple loot !chance!, 50% faster spawn and regular skill",
+            "displaypriority": 6,
+            "enddate": 1679694960,
+            "isseasonal": false,
+            "name": "Example Test",
+            "specialevent": 0,
+            "startdate": 1677275760
+        }
+    ],
+    "lastupdatetimestamp": 1681422960
+}
