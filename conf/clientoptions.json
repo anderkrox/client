@@ -1,0 +1,31 @@
+{
+    "controlButtonsOptions": {
+        "disabledButtons": [
+            "highscoresDialog",
+            "skillWheelDialog"
+        ],
+        "enabledButtons": [
+            "skillsWidget",
+            "battleListWidget",
+            "partyWidget",
+            "vipWidget",
+            "spellListWidget",
+            "questDialog",
+            "questTrackerWidget",
+            "unjustifiedPoinsWidget",
+            "preyDialog",
+            "preyWidget",
+            "rewardWallDialog",
+            "analyticsSelectorWidget",
+            "compendiumDialog",
+            "cyclopediaDialog",
+            "bosstiaryDialog",
+            "bossslotsDialog",
+            "bestiaryTrackerWidget",
+            "imbuementTrackerWidget",
+            "exaltationForgeDialog",
+            "friendsDialog",
+            "lenshelpFunction"
+        ]
+    }
+}
