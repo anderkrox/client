@@ -383,3 +383,195 @@
 [ 2023-04-28 17:51:54,164 ] Request connection to gameserver  "tcp://143.0.20.85:7173"  (unprotected:  "tcp://143.0.20.85:7173" )  requested (Charakter "Anderson Sacani" )
 [ 2023-04-28 17:51:54,173 ] Request connection to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"
 [ 2023-04-28 17:51:54,292 ] Connected to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"
+[ 2023-04-28 18:15:05,245 ] Using spritesheet cache size of 910
+[ 2023-04-28 18:15:06,675 ] Asset loading complete
+[ 2023-04-28 18:15:07,157 ] Could not parse hints file at offset 1 : "illegal value"
+[ 2023-04-28 18:15:11,243 ] Using spritesheet cache size of 910
+[ 2023-04-28 18:15:12,030 ] Asset loading complete
+[ 2023-04-28 18:15:13,257 ] Could not parse hints file at offset 1 : "illegal value"
+[ 2023-04-28 18:15:47,015 ] Using spritesheet cache size of 910
+[ 2023-04-28 18:15:48,433 ] Asset loading complete
+[ 2023-04-28 18:15:48,992 ] Could not parse hints file at offset 1 : "illegal value"
+[ 2023-04-28 18:15:58,201 ] BattlEye: "Initialized (v1.249)"
+[ 2023-04-28 18:15:58,201 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-04-28 18:15:58,202 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-04-28 18:15:58,202 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-04-28 18:15:58,202 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-04-28 18:15:58,271 ] Request connection to gameserver  "tcp://143.0.20.85:7172"  (unprotected:  "tcp://143.0.20.85:7172" )  requested (Charakter "GOD Sacani" )
+[ 2023-04-28 18:15:58,274 ] Request connection to gameserver  "tcp://143.0.20.85:7172" "TestServer"
+[ 2023-04-28 18:15:58,339 ] Connected to gameserver  "tcp://143.0.20.85:7172" "TestServer"
+[ 2023-04-28 18:15:58,541 ] Connection to gameserver  "tcp://143.0.20.85:7172" "TestServer"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-28 18:15:58,543 ] Disconnected from gameserver
+[ 2023-04-28 18:16:20,055 ] Using spritesheet cache size of 910
+[ 2023-04-28 18:16:20,931 ] Asset loading complete
+[ 2023-04-28 18:16:38,027 ] BattlEye: "Initialized (v1.249)"
+[ 2023-04-28 18:16:38,027 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-04-28 18:16:38,027 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-04-28 18:16:38,027 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-04-28 18:16:38,027 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-04-28 18:16:38,095 ] Request connection to gameserver  "tcp://143.0.20.85:7173"  (unprotected:  "tcp://143.0.20.85:7173" )  requested (Charakter "Sacani" )
+[ 2023-04-28 18:16:38,103 ] Request connection to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"
+[ 2023-04-28 18:16:38,184 ] Connected to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"
+[ 2023-04-28 18:18:44,507 ] Connection to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-28 18:18:44,569 ] Disconnected from gameserver
+[ 2023-04-28 18:18:44,768 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:20:46,475 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:20:47,654 ] Request connection to gameserver  "tcp://143.0.20.85:7173"  (unprotected:  "tcp://143.0.20.85:7173" )  requested (Charakter "Sacani" )
+[ 2023-04-28 18:20:47,656 ] Request connection to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"
+[ 2023-04-28 18:20:47,727 ] Connected to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"
+[ 2023-04-28 18:20:48,611 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:20:55,765 ] Using spritesheet cache size of 910
+[ 2023-04-28 18:20:57,255 ] Asset loading complete
+[ 2023-04-28 18:21:03,719 ] BattlEye: "Initialized (v1.249)"
+[ 2023-04-28 18:21:03,719 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-04-28 18:21:03,719 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-04-28 18:21:03,719 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-04-28 18:21:03,719 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-04-28 18:21:03,786 ] Request connection to gameserver  "tcp://143.0.20.85:7173"  (unprotected:  "tcp://143.0.20.85:7173" )  requested (Charakter "Cebola" )
+[ 2023-04-28 18:21:03,795 ] Request connection to gameserver  "tcp://143.0.20.85:7173" "TestServer"
+[ 2023-04-28 18:21:03,858 ] Connected to gameserver  "tcp://143.0.20.85:7173" "TestServer"
+[ 2023-04-28 18:21:04,044 ] Connection to gameserver  "tcp://143.0.20.85:7173" "TestServer"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-28 18:21:04,052 ] Disconnected from gameserver
+[ 2023-04-28 18:21:08,746 ] Request connection to gameserver  "tcp://143.0.20.85:7173"  (unprotected:  "tcp://143.0.20.85:7173" )  requested (Charakter "Cebola" )
+[ 2023-04-28 18:21:08,749 ] Request connection to gameserver  "tcp://143.0.20.85:7173" "TestServer"
+[ 2023-04-28 18:21:08,817 ] Connected to gameserver  "tcp://143.0.20.85:7173" "TestServer"
+[ 2023-04-28 18:21:09,000 ] Connection to gameserver  "tcp://143.0.20.85:7173" "TestServer"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-28 18:21:09,009 ] Disconnected from gameserver
+[ 2023-04-28 18:21:09,717 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:21:18,461 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:21:19,038 ] Request connection to gameserver  "tcp://143.0.20.85:7173"  (unprotected:  "tcp://143.0.20.85:7173" )  requested (Charakter "Cebola" )
+[ 2023-04-28 18:21:19,040 ] Request connection to gameserver  "tcp://143.0.20.85:7173" "TestServer"
+[ 2023-04-28 18:21:19,111 ] Connected to gameserver  "tcp://143.0.20.85:7173" "TestServer"
+[ 2023-04-28 18:21:19,295 ] Connection to gameserver  "tcp://143.0.20.85:7173" "TestServer"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-28 18:21:19,302 ] Disconnected from gameserver
+[ 2023-04-28 18:21:19,862 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:21:19,995 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:21:42,972 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:21:43,646 ] Request connection to gameserver  "tcp://143.0.20.85:7173"  (unprotected:  "tcp://143.0.20.85:7173" )  requested (Charakter "Cebola" )
+[ 2023-04-28 18:21:43,649 ] Request connection to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"
+[ 2023-04-28 18:21:43,722 ] Connected to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"
+[ 2023-04-28 18:21:44,624 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:23:44,054 ] Connection to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-28 18:23:44,124 ] Disconnected from gameserver
+[ 2023-04-28 18:23:45,889 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:23:46,406 ] Request connection to gameserver  "tcp://143.0.20.85:7173"  (unprotected:  "tcp://143.0.20.85:7173" )  requested (Charakter "Cebola" )
+[ 2023-04-28 18:23:46,409 ] Request connection to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"
+[ 2023-04-28 18:23:46,473 ] Connected to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"
+[ 2023-04-28 18:23:47,381 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:24:00,280 ] Using spritesheet cache size of 910
+[ 2023-04-28 18:24:01,254 ] Asset loading complete
+[ 2023-04-28 18:24:07,073 ] BattlEye: "Initialized (v1.249)"
+[ 2023-04-28 18:24:07,073 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-04-28 18:24:07,073 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-04-28 18:24:07,073 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-04-28 18:24:07,073 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-04-28 18:24:07,143 ] Request connection to gameserver  "tcp://143.0.20.85:7173"  (unprotected:  "tcp://143.0.20.85:7173" )  requested (Charakter "Cebolinha" )
+[ 2023-04-28 18:24:07,152 ] Request connection to gameserver  "tcp://143.0.20.85:7173" "TestServer"
+[ 2023-04-28 18:24:07,230 ] Connected to gameserver  "tcp://143.0.20.85:7173" "TestServer"
+[ 2023-04-28 18:24:07,353 ] Connection to gameserver  "tcp://143.0.20.85:7173" "TestServer"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-28 18:24:07,362 ] Disconnected from gameserver
+[ 2023-04-28 18:24:42,136 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:24:42,778 ] Request connection to gameserver  "tcp://143.0.20.85:7173"  (unprotected:  "tcp://143.0.20.85:7173" )  requested (Charakter "Cebolinha" )
+[ 2023-04-28 18:24:42,779 ] Request connection to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"
+[ 2023-04-28 18:24:42,853 ] Connected to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"
+[ 2023-04-28 18:24:43,737 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:25:30,422 ] Connection to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-28 18:25:30,502 ] Disconnected from gameserver
+[ 2023-04-28 18:25:31,923 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:25:32,449 ] Request connection to gameserver  "tcp://143.0.20.85:7173"  (unprotected:  "tcp://143.0.20.85:7173" )  requested (Charakter "Cebolinha" )
+[ 2023-04-28 18:25:32,451 ] Request connection to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"
+[ 2023-04-28 18:25:32,524 ] Connected to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"
+[ 2023-04-28 18:25:33,408 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-28 18:27:07,528 ] Connection to gameserver  "tcp://143.0.20.85:7173" "TestServerLocal"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-28 18:27:07,589 ] Disconnected from gameserver
+[ 2023-04-28 18:27:07,621 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:41:35,442 ] Using spritesheet cache size of 910
+[ 2023-04-30 23:41:40,650 ] Asset loading complete
+[ 2023-04-30 23:41:50,776 ] BattlEye: "Initialized (v1.249)"
+[ 2023-04-30 23:41:50,776 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-04-30 23:41:50,776 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-04-30 23:41:50,776 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-04-30 23:41:50,776 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-04-30 23:41:50,850 ] Request connection to gameserver  "tcp://177.153.69.193:7173"  (unprotected:  "tcp://177.153.69.193:7173" )  requested (Charakter "Cebola" )
+[ 2023-04-30 23:41:50,858 ] Request connection to gameserver  "tcp://177.153.69.193:7173" "TestServerLocal"
+[ 2023-04-30 23:41:50,932 ] Connected to gameserver  "tcp://177.153.69.193:7173" "TestServerLocal"
+[ 2023-04-30 23:41:51,131 ] Connection to gameserver  "tcp://177.153.69.193:7173" "TestServerLocal"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-30 23:41:51,135 ] Disconnected from gameserver
+[ 2023-04-30 23:41:53,278 ] Request connection to gameserver  "tcp://177.153.69.193:7173"  (unprotected:  "tcp://177.153.69.193:7173" )  requested (Charakter "Cebolinha" )
+[ 2023-04-30 23:41:53,284 ] Request connection to gameserver  "tcp://177.153.69.193:7173" "TestServerLocal"
+[ 2023-04-30 23:41:53,350 ] Connected to gameserver  "tcp://177.153.69.193:7173" "TestServerLocal"
+[ 2023-04-30 23:41:53,533 ] Connection to gameserver  "tcp://177.153.69.193:7173" "TestServerLocal"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-30 23:41:53,539 ] Disconnected from gameserver
+[ 2023-04-30 23:41:54,234 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:41:55,135 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:41:56,161 ] Request connection to gameserver  "tcp://177.153.69.193:7173"  (unprotected:  "tcp://177.153.69.193:7173" )  requested (Charakter "Sacani" )
+[ 2023-04-30 23:41:56,163 ] Request connection to gameserver  "tcp://177.153.69.193:7173" "TestServerLocal"
+[ 2023-04-30 23:41:56,237 ] Connected to gameserver  "tcp://177.153.69.193:7173" "TestServerLocal"
+[ 2023-04-30 23:41:56,437 ] Connection to gameserver  "tcp://177.153.69.193:7173" "TestServerLocal"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-30 23:41:56,442 ] Disconnected from gameserver
+[ 2023-04-30 23:41:57,138 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:41:57,205 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:43:53,234 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:47:23,998 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:47:24,912 ] Request connection to gameserver  "tcp://143.0.20.85:7172"  (unprotected:  "tcp://143.0.20.85:7172" )  requested (Charakter "GOD Sacani" )
+[ 2023-04-30 23:47:24,917 ] Request connection to gameserver  "tcp://143.0.20.85:7172" "TestServer"
+[ 2023-04-30 23:47:24,982 ] Connected to gameserver  "tcp://143.0.20.85:7172" "TestServer"
+[ 2023-04-30 23:47:25,133 ] Connection to gameserver  "tcp://143.0.20.85:7172" "TestServer"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-30 23:47:25,136 ] Disconnected from gameserver
+[ 2023-04-30 23:47:25,866 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:47:27,101 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:47:35,065 ] Using spritesheet cache size of 910
+[ 2023-04-30 23:47:36,005 ] Asset loading complete
+[ 2023-04-30 23:47:45,478 ] BattlEye: "Initialized (v1.249)"
+[ 2023-04-30 23:47:45,478 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-04-30 23:47:45,478 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-04-30 23:47:45,478 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-04-30 23:47:45,478 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-04-30 23:47:45,548 ] Request connection to gameserver  "tcp://143.0.20.85:7172"  (unprotected:  "tcp://143.0.20.85:7172" )  requested (Charakter "Kinaite" )
+[ 2023-04-30 23:47:45,558 ] Request connection to gameserver  "tcp://143.0.20.85:7172" "TestServer"
+[ 2023-04-30 23:47:45,622 ] Connected to gameserver  "tcp://143.0.20.85:7172" "TestServer"
+[ 2023-04-30 23:47:45,776 ] Connection to gameserver  "tcp://143.0.20.85:7172" "TestServer"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-30 23:47:45,781 ] Disconnected from gameserver
+[ 2023-04-30 23:47:48,532 ] Request connection to gameserver  "tcp://143.0.20.85:7172"  (unprotected:  "tcp://143.0.20.85:7172" )  requested (Charakter "GOD Sacani" )
+[ 2023-04-30 23:47:48,536 ] Request connection to gameserver  "tcp://143.0.20.85:7172" "TestServer"
+[ 2023-04-30 23:47:48,608 ] Connected to gameserver  "tcp://143.0.20.85:7172" "TestServer"
+[ 2023-04-30 23:47:48,774 ] Connection to gameserver  "tcp://143.0.20.85:7172" "TestServer"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-30 23:47:48,779 ] Disconnected from gameserver
+[ 2023-04-30 23:47:49,444 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:47:49,479 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:48:00,348 ] Request connection to gameserver  "tcp://143.0.20.85:7172"  (unprotected:  "tcp://143.0.20.85:7172" )  requested (Charakter "GOD Sacani" )
+[ 2023-04-30 23:48:00,350 ] Request connection to gameserver  "tcp://143.0.20.85:7172" "TestServer"
+[ 2023-04-30 23:48:00,421 ] Connected to gameserver  "tcp://143.0.20.85:7172" "TestServer"
+[ 2023-04-30 23:48:00,577 ] Connection to gameserver  "tcp://143.0.20.85:7172" "TestServer"  was disconnected ( "The remote host closed the connection" )
+[ 2023-04-30 23:48:00,581 ] Disconnected from gameserver
+[ 2023-04-30 23:48:01,305 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:48:04,225 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:48:14,990 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:49:42,551 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-04-30 23:49:44,769 ] Request connection to gameserver  "tcp://177.153.69.193:7173"  (unprotected:  "tcp://177.153.69.193:7173" )  requested (Charakter "Charnovo" )
+[ 2023-04-30 23:49:44,771 ] Request connection to gameserver  "tcp://177.153.69.193:7173" "TestServerLocal"
+[ 2023-04-30 23:49:44,836 ] Connected to gameserver  "tcp://177.153.69.193:7173" "TestServerLocal"
+[ 2023-04-30 23:49:45,721 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://143.0.20.85:3003") ) due to too many retries.
+[ 2023-05-01 01:35:45,128 ] Using spritesheet cache size of 910
+[ 2023-05-01 01:35:46,067 ] Asset loading complete
+[ 2023-05-01 01:35:47,276 ] Could not parse hints file at offset 1 : "illegal value"
+[ 2023-05-01 01:36:48,264 ] Using spritesheet cache size of 910
+[ 2023-05-01 01:36:49,236 ] Asset loading complete
+[ 2023-05-01 01:36:50,432 ] Could not parse hints file at offset 1 : "illegal value"
+[ 2023-05-01 01:37:32,164 ] Using spritesheet cache size of 910
+[ 2023-05-01 01:37:33,144 ] Asset loading complete
+[ 2023-05-01 01:37:34,501 ] Could not parse hints file at offset 1 : "illegal value"
+[ 2023-05-01 01:39:34,462 ] Using spritesheet cache size of 910
+[ 2023-05-01 01:39:35,402 ] Asset loading complete
+[ 2023-05-01 01:39:36,711 ] Could not parse hints file at offset 1 : "illegal value"
+[ 2023-05-01 01:40:01,375 ] Using spritesheet cache size of 910
+[ 2023-05-01 01:40:03,238 ] Asset loading complete
+[ 2023-05-01 01:40:03,543 ] Could not parse hints file at offset 1 : "illegal value"
+[ 2023-05-01 01:40:18,414 ] BattlEye: "Initialized (v1.249)"
+[ 2023-05-01 01:40:18,414 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-05-01 01:40:18,414 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-05-01 01:40:18,414 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-05-01 01:40:18,414 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-05-01 01:40:18,489 ] Request connection to gameserver  "tcp://177.153.69.193:7173"  (unprotected:  "tcp://177.153.69.193:7173" )  requested (Charakter "Charnovo" )
+[ 2023-05-01 01:40:18,499 ] Request connection to gameserver  "tcp://177.153.69.193:7173" "TestServerLocal"
+[ 2023-05-01 01:40:18,562 ] Connected to gameserver  "tcp://177.153.69.193:7173" "TestServerLocal"
